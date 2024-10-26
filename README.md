@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rendybp
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : email rendibuanap@gmail.com
 
