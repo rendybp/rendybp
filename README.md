@@ -1,6 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <img width="80%" alt="Hello, I'm Rendi!" src="https://raw.githubusercontent.com/rendybp/rendybp/main/assets/readme-header.png" />
+  <img src="https://raw.githubusercontent.com/rendybp/rendybp/main/assets/handwritten-banner.png"
+       alt="Hi, I'm Rendi — Full Stack Developer"
+       width="900" />
 </p>
 
 <p align="center">
@@ -47,11 +49,12 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rendybp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rendi's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendybp&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=rendybp)](https://git.io/streak-stats)
-</p>
 
----
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=rendybp&theme=buefy&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ### 🚀 Featured Projects
 <a href="https://github.com/rendybp/bookrecsys-railway">
