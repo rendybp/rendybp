@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src=".assets/readme-header.png"
+  <img src="https://raw.githubusercontent.com/rendybp/rendybp/main/assets/readme-header.png"
        alt="Hi, I'm Rendi — Full Stack Developer"
-       width="80%" />
+       width="900" />
 </p>
 
 <p align="center">
@@ -48,6 +48,7 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rendybp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rendi's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendybp&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 
 ### 🚀 Featured Projects
 <a href="https://github.com/rendybp/bookrecsys-railway">
