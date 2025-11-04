@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img width="80%" alt="Hello, I'm Rendi!" src="https://raw.githubusercontent.com/rendybp/rendybp/main/assets/readme-header.png" />
+  <img width="50%" alt="Hello, I'm Rendi!" src="https://raw.githubusercontent.com/rendybp/rendybp/main/assets/readme-header.png" />
 </p>
 
 <p align="center">
