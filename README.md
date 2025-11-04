@@ -48,17 +48,17 @@
 | ------------- | ------------- |
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rendybp&theme=buefy&hide_border=true" alt="GitHub Streak Stats" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=rendybp)](https://git.io/streak-stats)
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-<a href="https://github.com/rendybp/perpustakaan-laravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rendybp&repo=perpustakaan-laravel&theme=buefy" />
+<a href="https://github.com/rendybp/bookrecsys-railway">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rendybp&repo=bookrecsys-railway&theme=buefy" />
 </a>
-<a href="https://github.com/rendybp/kasir-app-flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rendybp&repo=kasir-app-flutter&theme=buefy" />
+<a href="https://github.com/rendybp/my-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rendybp&repo=my-portfolio&theme=buefy" />
 </a>
 
 ---
