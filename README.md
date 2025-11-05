@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rendybp/rendybp/main/assets/readme-header.png"
        alt="Hi, I'm Rendi — Full Stack Developer"
-       width="10%" />
+       width="20%" />
 </p>
 
 <p align="center">
