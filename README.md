@@ -98,13 +98,13 @@
 ---
 
 ### 🌐 Connect With Me
-<a href="https://linkedin.com/in/rendybp">
+<a href="https://www.linkedin.com/in/rendi-buana-perdana/">
   <img align="left" alt="Rendi Buana Perdana | LinkedIn" width="26px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://instagram.com/rendi.buana">
+<a href="https://instagram.com/rend.bp">
   <img align="left" alt="Rendi Buana Perdana | Instagram" width="26px" src="https://skillicons.dev/icons?i=instagram" />
 </a>
-<a href="mailto:rendybp@gmail.com">
+<a href="mailto:contact.rendibp@gmail.com">
   <img align="left" alt="Email" width="26px" src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
