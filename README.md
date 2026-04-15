@@ -16,7 +16,10 @@
 ## 👋 Hi, I'm Rendi Buana Perdana
 💻 A passionate **Software Engineer** from Indonesia 🇮🇩  
 🎓 **Bachelor of Computer Science**, *Duta Bangsa University, Surakarta*  
-🧠 Focused on **Full-Stack Development**, **Real-Time Systems (IoT/WebSockets)**, and **Quality Assurance**
+🧠 Focused on **Full-Stack Development**, **Real-Time Systems (IoT/WebSockets)**, and **Quality Assurance**  
+📫 How to reach me **contact.rendibp@gmail.com**  
+👨‍💻 All of my projects are available at **[https://rendibuana.me](https://rendibuana.me)**  
+📄 Know about my experiences **[https://www.rendibuana.me/resume-rendi-en.pdf](https://www.rendibuana.me/resume-rendi-en.pdf)**  
 
 ---
 
@@ -56,6 +59,15 @@
 <code><img height="24" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
 <code><img height="24" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 
+**Tools & Application**
+<code><img height="24" alt="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="24" alt="Github" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
+<code><img height="24" alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="24" alt="Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+<code><img height="24" alt="Fedora" src="https://raw.githubusercontent.com/github/explore/main/topics/fedora/fedora.png"></code>
+<code><img height="24" alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="24" alt="Postman" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png"></code>
+
 ---
 
 ### 📊 GitHub Stats
@@ -65,32 +77,35 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rendybp&theme=dark)](https://git.io/streak-stats)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rendybp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rendi's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendybp&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats-dun-three-qhpbtwuk1n.vercel.app/api?username=rendybp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rendi's GitHub stats" /> | <img align="center" src="https://github-readme-stats-dun-three-qhpbtwuk1n.vercel.app/api/top-langs/?username=rendybp&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 
 ### 🚀 Featured Projects
 <a href="https://github.com/rendybp/bookrecsys-railway">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rendybp&repo=bookrecsys-railway&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-dun-three-qhpbtwuk1n.vercel.app/api/pin/?username=rendybp&repo=bookrecsys-railway&theme=buefy" />
 </a>
 <a href="https://github.com/rendybp/my-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rendybp&repo=my-portfolio&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-dun-three-qhpbtwuk1n.vercel.app/api/pin/?username=rendybp&repo=my-portfolio&theme=buefy" />
 </a>
 <a href="https://github.com/rendybp/vehicle-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rendybp&repo=vehicle-tracker&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-dun-three-qhpbtwuk1n.vercel.app/api/pin/?username=rendybp&repo=vehicle-tracker&theme=buefy" />
+</a>
+<a href="https://github.com/ikhsanmajid/ProjectAkhirPerpustakaan">
+  <img align="center" src="https://github-readme-stats-dun-three-qhpbtwuk1n.vercel.app/api/pin/?username=ikhsanmajid&repo=ProjectAkhirPerpustakaan&theme=buefy" />
 </a>
 
 ---
 
 ### 🌐 Connect With Me
 <a href="https://linkedin.com/in/rendybp">
-  <img align="left" alt="Rendi Buana Perdana | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rendi Buana Perdana | LinkedIn" width="26px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://instagram.com/rendi.buana">
-  <img align="left" alt="Rendi Buana Perdana | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rendi Buana Perdana | Instagram" width="26px" src="https://skillicons.dev/icons?i=instagram" />
 </a>
 <a href="mailto:rendybp@gmail.com">
-  <img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Email" width="26px" src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <br><br>
