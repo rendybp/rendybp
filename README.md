@@ -18,8 +18,8 @@
 🎓 **Bachelor of Computer Science**, *Duta Bangsa University, Surakarta*  
 🧠 Focused on **Full-Stack Development**, **Real-Time Systems (IoT/WebSockets)**, and **Quality Assurance**  
 📫 How to reach me **contact.rendibp@gmail.com**  
-👨‍💻 All of my projects are available at **<a href="https://rendibuana.me" target="_blank">https://rendibuana.me</a>**  
-📄 Know about my experiences **<a href="https://rendibuana.me/resume-rendi-en.pdf" target="_blank">https://rendibuana.me/resume-rendi-en.pdf</a>**  
+👨‍💻 All of my projects are available at **[https://rendibuana.me](https://rendibuana.me)**  
+📄 Know about my experiences **[https://www.rendibuana.me/resume-rendi-en.pdf](https://www.rendibuana.me/resume-rendi-en.pdf)**  
 
 ---
 
